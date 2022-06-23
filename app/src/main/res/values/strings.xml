@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComposeTutorial</string>
+    <string name="for_you">For you</string>
+    <string name="for_you_loading">Loading for you…</string>
+    <string name="onboarding_guidance_title">What are you interested in?</string>
+    <string name="onboarding_guidance_subtitle">Updates from topics you follow will appear here. Follow some things to get started.</string>
+    <string name="done">Done</string>
+    <string name="card_tap_action">Open Resource Link</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="unbookmark">Unbookmark</string>
+    <string name="back">Back</string>
+    <!-- Authors-->
+    <string name="following">You are following</string>
+    <string name="not_following">You are not following</string>
+</resources>
